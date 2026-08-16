@@ -4,7 +4,7 @@
 
 ## Roadmap
 
-- Git
+- Git (Current topic)
 - Linux
 - Bash
 - Docker
