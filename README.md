@@ -4,8 +4,8 @@
 
 ## Roadmap
 
-- Git (Current topic)
-- Linux
+- Git (Completed topic)
+- Linux (Current topic)
 - Bash
 - Docker
 - CI/CD
