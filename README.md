@@ -5,7 +5,7 @@
 ## Roadmap
 
 - Git (Current topic)
-- Linux
+- Linux (Non-started topic)
 - Bash
 - Docker
 - CI/CD
