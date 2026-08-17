@@ -12,3 +12,7 @@
 - Ansible
 - Terraform
 - Kubernetes
+
+## Second Developer
+
+Я второй разработчик, я тоже оставляю свои следы тут
