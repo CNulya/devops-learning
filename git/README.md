@@ -22,7 +22,7 @@ Rebase — ...
 
 ## Tag
 
-Tag — ...
+Tag — это создание ярлыка на конкретном коммите
 
 ## Remote Repository
 
